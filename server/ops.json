@@ -1,1 +1,8 @@
-[]
+[
+  {
+    "uuid": "8ff1ac14-21b6-4387-9fa5-9232b163b1cd",
+    "name": "Toonifyer",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]
