@@ -77,3 +77,6 @@
 [18:15:44] [Server thread/INFO]: Toonifyer joined the game
 [18:15:45] [Server thread/INFO]: Toonifyer[/[0:0:0:0:0:0:0:1%0]:47122] logged in with entity id 178 at ([world]122.5, 75.0, 3.5)
 [18:19:55] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
+[19:10:54] [Thread-2/INFO]: Stopping server
+[19:10:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2761706ms or 55234 ticks behind
+[19:10:54] [Spigot Watchdog Thread/ERROR]: ------------------------------
