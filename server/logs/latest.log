@@ -96,3 +96,15 @@
 [16:17:11] [User Authenticator #1/INFO]: UUID of player Toonifyer is 8ff1ac14-21b6-4387-9fa5-9232b163b1cd
 [16:17:12] [Server thread/INFO]: Welcome Toonifyer[m
 [16:17:12] [Server thread/INFO]: Toonifyer joined the game
+[16:17:12] [Server thread/INFO]: Toonifyer[/[0:0:0:0:0:0:0:1%0]:36656] logged in with entity id 9 at ([world]9.5, -60.0, -8.5)
+[16:32:58] [Thread-18/INFO]: [ELCI] Starting input thread
+[16:32:58] [Thread-9/INFO]: [ELCI] Opened connection to/127.0.0.1:45838.
+[16:32:58] [Thread-19/INFO]: [ELCI] Starting output thread!
+[16:32:58] [Server thread/INFO]: [Toonifyer: Set the time to 1000]
+[16:32:58] [Server thread/INFO]: [ELCI] Closed connection to/127.0.0.1:45838.
+[16:33:38] [Server thread/INFO]: Toonifyer issued server command: /time set midnight
+[16:33:38] [Server thread/INFO]: [Toonifyer: Set the time to 18000]
+[16:33:46] [Thread-9/INFO]: [ELCI] Opened connection to/127.0.0.1:56810.
+[16:33:46] [Thread-21/INFO]: [ELCI] Starting input thread
+[16:33:46] [Thread-22/INFO]: [ELCI] Starting output thread!
+[16:33:46] [Server thread/INFO]: [Toonifyer: Set the time to 1000]
