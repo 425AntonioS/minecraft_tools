@@ -108,3 +108,13 @@
 [16:33:46] [Thread-21/INFO]: [ELCI] Starting input thread
 [16:33:46] [Thread-22/INFO]: [ELCI] Starting output thread!
 [16:33:46] [Server thread/INFO]: [Toonifyer: Set the time to 1000]
+[16:33:46] [Server thread/INFO]: [ELCI] Closed connection to/127.0.0.1:56810.
+[16:34:25] [Thread-23/INFO]: [ELCI] Starting input thread
+[16:34:25] [Thread-9/INFO]: [ELCI] Opened connection to/127.0.0.1:35416.
+[16:34:25] [Thread-24/INFO]: [ELCI] Starting output thread!
+[16:34:25] [Server thread/INFO]: [Toonifyer: Set the time to 1000]
+[16:34:25] [Server thread/INFO]: [ELCI] Closed connection to/127.0.0.1:35416.
+[16:34:46] [Thread-27/INFO]: [ELCI] Starting input thread
+[16:34:46] [Thread-9/INFO]: [ELCI] Opened connection to/127.0.0.1:58102.
+[16:34:46] [Thread-28/INFO]: [ELCI] Starting output thread!
+[16:34:46] [Server thread/INFO]: [Toonifyer: Set the time to 1000]
