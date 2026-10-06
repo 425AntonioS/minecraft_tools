@@ -118,3 +118,26 @@
 [16:34:46] [Thread-9/INFO]: [ELCI] Opened connection to/127.0.0.1:58102.
 [16:34:46] [Thread-28/INFO]: [ELCI] Starting output thread!
 [16:34:46] [Server thread/INFO]: [Toonifyer: Set the time to 1000]
+[16:34:46] [Server thread/INFO]: [ELCI] Closed connection to/127.0.0.1:58102.
+[16:37:11] [Thread-32/INFO]: [ELCI] Starting output thread!
+[16:37:11] [Thread-9/INFO]: [ELCI] Opened connection to/127.0.0.1:53936.
+[16:37:11] [Thread-31/INFO]: [ELCI] Starting input thread
+[16:37:27] [Server thread/INFO]: [ELCI] Closed connection to/127.0.0.1:53936.
+[16:46:44] [Server thread/INFO]: Toonifyer issued server command: /time set day
+[16:46:44] [Server thread/INFO]: [Toonifyer: Set the time to 1000]
+[16:47:29] [Thread-9/INFO]: [ELCI] Opened connection to/127.0.0.1:41384.
+[16:47:29] [Thread-41/INFO]: [ELCI] Starting output thread!
+[16:47:29] [Thread-40/INFO]: [ELCI] Starting input thread
+[16:47:29] [Server thread/INFO]: [ELCI] Closed connection to/127.0.0.1:41384.
+[16:48:41] [Server thread/INFO]: Toonifyer issued server command: /setblock 10 -60 -10 air replace
+[16:48:41] [Server thread/INFO]: [Toonifyer: Changed the block at 10, -60, -10]
+[16:50:34] [Server thread/INFO]: Toonifyer issued server command: /fill 10 -60 -10 20 -60 10
+[16:50:59] [Server thread/INFO]: Toonifyer issued server command: /fill 10 -60 -10 20 -60 10 minecraft:air
+[16:50:59] [Server thread/INFO]: [Toonifyer: Successfully filled 199 blocks]
+[16:51:36] [Thread-45/INFO]: [ELCI] Starting input thread
+[16:51:36] [Thread-9/INFO]: [ELCI] Opened connection to/127.0.0.1:50958.
+[16:51:36] [Thread-46/INFO]: [ELCI] Starting output thread!
+[16:51:36] [Server thread/INFO]: [ELCI] Closed connection to/127.0.0.1:50958.
+[16:57:46] [Thread-9/INFO]: [ELCI] Opened connection to/127.0.0.1:34216.
+[16:57:46] [Thread-50/INFO]: [ELCI] Starting input thread
+[16:57:46] [Thread-51/INFO]: [ELCI] Starting output thread!
