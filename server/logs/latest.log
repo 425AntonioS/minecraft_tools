@@ -191,3 +191,21 @@
 [17:55:41] [Thread-119/INFO]: [ELCI] Starting input thread
 [17:55:41] [Thread-9/INFO]: [ELCI] Opened connection to/127.0.0.1:50428.
 [17:55:41] [Thread-120/INFO]: [ELCI] Starting output thread!
+[17:55:42] [Server thread/INFO]: [ELCI] Closed connection to/127.0.0.1:50428.
+[18:01:55] [Thread-9/INFO]: [ELCI] Opened connection to/127.0.0.1:32944.
+[18:01:55] [Thread-129/INFO]: [ELCI] Starting input thread
+[18:01:55] [Thread-130/INFO]: [ELCI] Starting output thread!
+[18:01:55] [Server thread/INFO]: [ELCI] Closed connection to/127.0.0.1:32944.
+[18:02:28] [Server thread/INFO]: Toonifyer lost connection: Disconnected
+[18:02:29] [Server thread/INFO]: Toonifyer left the game
+[18:03:18] [Server thread/INFO]: Stopping the server
+[18:03:18] [Server thread/INFO]: Stopping server
+[18:03:18] [Server thread/INFO]: [ELCI] Disabling ELCI v1.12.1
+[18:03:18] [Server thread/INFO]: [ELCI] Raspberry Juice Stopped
+[18:03:18] [Server thread/INFO]: [SetSpawn] Disabling SetSpawn v3.4
+[18:03:18] [Server thread/INFO]: [SetSpawn] Disabled!
+[18:03:18] [Server thread/INFO]: Saving players
+[18:03:18] [Server thread/INFO]: Saving worlds
+[18:03:20] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[18:03:28] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[18:03:28] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
