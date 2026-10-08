@@ -93,3 +93,27 @@
 [14:50:07] [Server thread/INFO]: Toonifyer joined the game
 [14:50:07] [Server thread/INFO]: Toonifyer[/[0:0:0:0:0:0:0:1%0]:56152] logged in with entity id 41 at ([world]21.442529910472604, -60.0, 34.13415956828293)
 [14:50:16] [Server thread/INFO]: Toonifyer issued server command: /time set day
+[14:50:16] [Server thread/INFO]: [Toonifyer: Set the time to 1000]
+[14:51:44] [Thread-8/INFO]: [ELCI] Opened connection to/127.0.0.1:43344.
+[14:51:44] [Thread-33/INFO]: [ELCI] Starting input thread
+[14:51:44] [Thread-34/INFO]: [ELCI] Starting output thread!
+[14:52:01] [Thread-35/INFO]: [ELCI] Starting input thread
+[14:52:01] [Thread-8/INFO]: [ELCI] Opened connection to/127.0.0.1:56290.
+[14:52:01] [Thread-36/INFO]: [ELCI] Starting output thread!
+[14:52:01] [Server thread/INFO]: [ELCI] Closed connection to/127.0.0.1:43344.
+[14:52:01] [Server thread/INFO]: [ELCI] Closed connection to/127.0.0.1:56290.
+[14:58:15] [Thread-8/INFO]: [ELCI] Opened connection to/127.0.0.1:39496.
+[14:58:15] [Thread-46/INFO]: [ELCI] Starting input thread
+[14:58:15] [Thread-47/INFO]: [ELCI] Starting output thread!
+[14:59:21] [Thread-48/INFO]: [ELCI] Starting input thread
+[14:59:21] [Thread-8/INFO]: [ELCI] Opened connection to/127.0.0.1:57040.
+[14:59:21] [Thread-49/INFO]: [ELCI] Starting output thread!
+[14:59:21] [Thread-8/INFO]: [ELCI] Opened connection to/127.0.0.1:57050.
+[14:59:21] [Thread-51/INFO]: [ELCI] Starting output thread!
+[14:59:21] [Thread-52/INFO]: [ELCI] Starting input thread
+[14:59:21] [Thread-50/INFO]: [ELCI] Starting input thread
+[14:59:21] [Thread-8/INFO]: [ELCI] Opened connection to/127.0.0.1:57058.
+[14:59:21] [Thread-53/INFO]: [ELCI] Starting output thread!
+[14:59:21] [Server thread/INFO]: [ELCI] Closed connection to/127.0.0.1:39496.
+[14:59:21] [Server thread/INFO]: [ELCI] Closed connection to/127.0.0.1:57040.
+[14:59:21] [Server thread/INFO]: [ELCI] Closed connection to/127.0.0.1:57050.
