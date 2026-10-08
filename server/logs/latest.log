@@ -193,3 +193,44 @@ java.util.ConcurrentModificationException: null
 [15:04:08] [Server thread/INFO]: [ELCI] Closed connection to/127.0.0.1:51700.
 [15:04:08] [Server thread/INFO]: [ELCI] Closed connection to/127.0.0.1:55576.
 [15:04:08] [Server thread/INFO]: [ELCI] Closed connection to/127.0.0.1:55592.
+[15:04:08] [Server thread/INFO]: [ELCI] Closed connection to/127.0.0.1:55606.
+[15:06:15] [Thread-8/INFO]: [ELCI] Opened connection to/127.0.0.1:47804.
+[15:06:15] [Thread-85/INFO]: [ELCI] Starting input thread
+[15:06:15] [Thread-86/INFO]: [ELCI] Starting output thread!
+[15:06:26] [Thread-8/INFO]: [ELCI] Opened connection to/127.0.0.1:56878.
+[15:06:26] [Thread-87/INFO]: [ELCI] Starting input thread
+[15:06:26] [Thread-88/INFO]: [ELCI] Starting output thread!
+[15:06:26] [Server thread/WARN]: [ELCI] Over 9000 commands were queued - deferring 821 to next tick
+[15:06:26] [Thread-89/INFO]: [ELCI] Starting input thread
+[15:06:26] [Thread-8/INFO]: [ELCI] Opened connection to/127.0.0.1:56880.
+[15:06:26] [Thread-90/INFO]: [ELCI] Starting output thread!
+[15:06:26] [Server thread/WARN]: [ELCI] Task #2 for ELCI v1.12.1 generated an exception
+java.util.ConcurrentModificationException: null
+	at java.util.ArrayList$Itr.checkForComodification(ArrayList.java:1013) ~[?:?]
+	at java.util.ArrayList$Itr.next(ArrayList.java:967) ~[?:?]
+	at net.rozukke.elci.ELCIPlugin$TickHandler.run(ELCIPlugin.java:149) ~[?:?]
+	at org.bukkit.craftbukkit.v1_19_R3.scheduler.CraftTask.run(CraftTask.java:82) ~[spigot-1.19.4-R0.1-SNAPSHOT.jar:3714-Spigot-b31949f-3ae9069]
+	at org.bukkit.craftbukkit.v1_19_R3.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:415) ~[spigot-1.19.4-R0.1-SNAPSHOT.jar:3714-Spigot-b31949f-3ae9069]
+	at net.minecraft.server.MinecraftServer.b(MinecraftServer.java:1259) ~[spigot-1.19.4-R0.1-SNAPSHOT.jar:3714-Spigot-b31949f-3ae9069]
+	at net.minecraft.server.dedicated.DedicatedServer.b(DedicatedServer.java:388) ~[spigot-1.19.4-R0.1-SNAPSHOT.jar:3714-Spigot-b31949f-3ae9069]
+	at net.minecraft.server.MinecraftServer.a(MinecraftServer.java:1200) ~[spigot-1.19.4-R0.1-SNAPSHOT.jar:3714-Spigot-b31949f-3ae9069]
+	at net.minecraft.server.MinecraftServer.w(MinecraftServer.java:1017) ~[spigot-1.19.4-R0.1-SNAPSHOT.jar:3714-Spigot-b31949f-3ae9069]
+	at net.minecraft.server.MinecraftServer.lambda$0(MinecraftServer.java:304) ~[spigot-1.19.4-R0.1-SNAPSHOT.jar:3714-Spigot-b31949f-3ae9069]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[15:06:26] [Server thread/WARN]: [ELCI] Over 9000 commands were queued - deferring 2613 to next tick
+[15:06:26] [Server thread/INFO]: [ELCI] Closed connection to/127.0.0.1:47804.
+[15:06:26] [Server thread/INFO]: [ELCI] Closed connection to/127.0.0.1:56878.
+[15:06:26] [Server thread/INFO]: [ELCI] Closed connection to/127.0.0.1:56880.
+[15:07:11] [Server thread/INFO]: Toonifyer lost connection: Disconnected
+[15:07:11] [Server thread/INFO]: Toonifyer left the game
+[15:07:35] [Server thread/INFO]: Stopping the server
+[15:07:35] [Server thread/INFO]: Stopping server
+[15:07:35] [Server thread/INFO]: [ELCI] Disabling ELCI v1.12.1
+[15:07:35] [Server thread/INFO]: [ELCI] Raspberry Juice Stopped
+[15:07:35] [Server thread/INFO]: [SetSpawn] Disabling SetSpawn v3.4
+[15:07:35] [Server thread/INFO]: [SetSpawn] Disabled!
+[15:07:35] [Server thread/INFO]: Saving players
+[15:07:35] [Server thread/INFO]: Saving worlds
+[15:07:36] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[15:07:42] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[15:07:42] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
