@@ -1,211 +1,95 @@
-[16:15:43] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[16:15:43] [ServerMain/INFO]: Found new data pack file/bukkit, loading it automatically
-[16:15:45] [ServerMain/ERROR]: No key layers in MapLike[{}]
-[16:15:47] [ServerMain/INFO]: Loaded 7 recipes
-[16:15:48] [Server thread/INFO]: Starting minecraft server version 1.19.4
-[16:15:48] [Server thread/INFO]: Loading properties
-[16:15:49] [Server thread/INFO]: This server is running CraftBukkit version 3714-Spigot-b31949f-3ae9069 (MC: 1.19.4) (Implementing API version 1.19.4-R0.1-SNAPSHOT)
-[16:15:49] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[16:15:49] [Server thread/INFO]: Using 4 threads for Netty based IO
-[16:15:49] [Server thread/INFO]: Debug logging is disabled
-[16:15:50] [Server thread/INFO]: Default game type: CREATIVE
-[16:15:50] [Server thread/INFO]: Generating keypair
-[16:15:50] [Server thread/INFO]: Starting Minecraft server on *:25565
-[16:15:50] [Server thread/INFO]: Using epoll channel type
-[16:15:52] [Server thread/WARN]: Initializing Legacy Material Support. Unless you have legacy plugins and/or data this is a bug!
-[16:15:54] [Server thread/WARN]: Legacy plugin SetSpawn v3.4 does not specify an api-version.
-[16:15:55] [Server thread/WARN]: Legacy plugin ELCI v1.12.1 does not specify an api-version.
-[16:15:55] [Server thread/INFO]: [SetSpawn] Loading SetSpawn v3.4
-[16:15:55] [Server thread/INFO]: [ELCI] Loading ELCI v1.12.1
-[16:15:55] [Server thread/INFO]: Preparing level "world"
-[16:15:55] [Server thread/ERROR]: No key layers in MapLike[{}]
-[16:15:55] [Server thread/INFO]: -------- World Settings For [world] --------
-[16:15:55] [Server thread/INFO]: Cactus Growth Modifier: 100%
-[16:15:55] [Server thread/INFO]: Cane Growth Modifier: 100%
-[16:15:55] [Server thread/INFO]: Melon Growth Modifier: 100%
-[16:15:55] [Server thread/INFO]: Mushroom Growth Modifier: 100%
-[16:15:55] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
-[16:15:55] [Server thread/INFO]: Sapling Growth Modifier: 100%
-[16:15:55] [Server thread/INFO]: Beetroot Growth Modifier: 100%
-[16:15:55] [Server thread/INFO]: Carrot Growth Modifier: 100%
-[16:15:55] [Server thread/INFO]: Potato Growth Modifier: 100%
-[16:15:55] [Server thread/INFO]: Wheat Growth Modifier: 100%
-[16:15:55] [Server thread/INFO]: NetherWart Growth Modifier: 100%
-[16:15:55] [Server thread/INFO]: Vine Growth Modifier: 100%
-[16:15:55] [Server thread/INFO]: Cocoa Growth Modifier: 100%
-[16:15:55] [Server thread/INFO]: Bamboo Growth Modifier: 100%
-[16:15:55] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
-[16:15:55] [Server thread/INFO]: Kelp Growth Modifier: 100%
-[16:15:55] [Server thread/INFO]: TwistingVines Growth Modifier: 100%
-[16:15:55] [Server thread/INFO]: WeepingVines Growth Modifier: 100%
-[16:15:55] [Server thread/INFO]: CaveVines Growth Modifier: 100%
-[16:15:55] [Server thread/INFO]: Max TNT Explosions: 100
-[16:15:55] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
-[16:15:55] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true / Isa false
-[16:15:55] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
-[16:15:55] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1 Hopper Can Load Chunks: false
-[16:15:55] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Nether: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
-[16:15:55] [Server thread/INFO]: Mob Spawn Range: 6
-[16:15:55] [Server thread/INFO]: Experience Merge Radius: 3.0
-[16:15:55] [Server thread/INFO]: View Distance: 10
-[16:15:55] [Server thread/INFO]: Simulation Distance: 10
-[16:15:55] [Server thread/INFO]: Item Despawn Rate: 6000
-[16:15:55] [Server thread/INFO]: Item Merge Radius: 2.5
-[16:15:55] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
-[16:15:55] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
-[16:15:55] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
-[16:15:55] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
-[16:16:33] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[16:16:34] [Worker-Main-12/INFO]: Preparing spawn area: 0%
-[16:16:34] [Worker-Main-12/INFO]: Preparing spawn area: 0%
-[16:16:34] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[16:16:34] [Worker-Main-12/INFO]: Preparing spawn area: 0%
-[16:16:35] [Worker-Main-13/INFO]: Preparing spawn area: 0%
-[16:16:35] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[16:16:36] [Worker-Main-4/INFO]: Preparing spawn area: 0%
-[16:16:36] [Worker-Main-3/INFO]: Preparing spawn area: 1%
-[16:16:37] [Worker-Main-15/INFO]: Preparing spawn area: 4%
-[16:16:37] [Worker-Main-1/INFO]: Preparing spawn area: 6%
-[16:16:38] [Worker-Main-1/INFO]: Preparing spawn area: 7%
-[16:16:38] [Worker-Main-1/INFO]: Preparing spawn area: 8%
-[16:16:39] [Worker-Main-3/INFO]: Preparing spawn area: 8%
-[16:16:39] [Worker-Main-15/INFO]: Preparing spawn area: 13%
-[16:16:40] [Worker-Main-13/INFO]: Preparing spawn area: 17%
-[16:16:40] [Worker-Main-10/INFO]: Preparing spawn area: 18%
-[16:16:41] [Worker-Main-5/INFO]: Preparing spawn area: 20%
-[16:16:41] [Worker-Main-13/INFO]: Preparing spawn area: 21%
-[16:16:42] [Worker-Main-14/INFO]: Preparing spawn area: 26%
-[16:16:42] [Worker-Main-9/INFO]: Preparing spawn area: 33%
-[16:16:43] [Worker-Main-3/INFO]: Preparing spawn area: 39%
-[16:16:43] [Worker-Main-15/INFO]: Preparing spawn area: 43%
-[16:16:44] [Worker-Main-10/INFO]: Preparing spawn area: 48%
-[16:16:44] [Worker-Main-7/INFO]: Preparing spawn area: 49%
-[16:16:45] [Worker-Main-3/INFO]: Preparing spawn area: 58%
-[16:16:46] [Worker-Main-5/INFO]: Preparing spawn area: 60%
-[16:16:46] [Worker-Main-9/INFO]: Preparing spawn area: 73%
-[16:16:46] [Worker-Main-4/INFO]: Preparing spawn area: 81%
-[16:16:47] [Worker-Main-6/INFO]: Preparing spawn area: 81%
-[16:16:47] [Server thread/INFO]: Time elapsed: 14503 ms
-[16:16:48] [Server thread/INFO]: [SetSpawn] Enabling SetSpawn v3.4
-[16:16:48] [Server thread/INFO]: [SetSpawn] Enabled!
-[16:16:48] [Server thread/INFO]: [ELCI] Enabling ELCI v1.12.1
-[16:16:48] [Server thread/INFO]: [ELCI] Using host:port - 0.0.0.0:4711
-[16:16:48] [Server thread/INFO]: [ELCI] ThreadListener Started
-[16:16:48] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[16:16:48] [Server thread/INFO]: Done (53.200s)! For help, type "help"
-[16:17:11] [User Authenticator #1/INFO]: UUID of player Toonifyer is 8ff1ac14-21b6-4387-9fa5-9232b163b1cd
-[16:17:12] [Server thread/INFO]: Welcome Toonifyer[m
-[16:17:12] [Server thread/INFO]: Toonifyer joined the game
-[16:17:12] [Server thread/INFO]: Toonifyer[/[0:0:0:0:0:0:0:1%0]:36656] logged in with entity id 9 at ([world]9.5, -60.0, -8.5)
-[16:32:58] [Thread-18/INFO]: [ELCI] Starting input thread
-[16:32:58] [Thread-9/INFO]: [ELCI] Opened connection to/127.0.0.1:45838.
-[16:32:58] [Thread-19/INFO]: [ELCI] Starting output thread!
-[16:32:58] [Server thread/INFO]: [Toonifyer: Set the time to 1000]
-[16:32:58] [Server thread/INFO]: [ELCI] Closed connection to/127.0.0.1:45838.
-[16:33:38] [Server thread/INFO]: Toonifyer issued server command: /time set midnight
-[16:33:38] [Server thread/INFO]: [Toonifyer: Set the time to 18000]
-[16:33:46] [Thread-9/INFO]: [ELCI] Opened connection to/127.0.0.1:56810.
-[16:33:46] [Thread-21/INFO]: [ELCI] Starting input thread
-[16:33:46] [Thread-22/INFO]: [ELCI] Starting output thread!
-[16:33:46] [Server thread/INFO]: [Toonifyer: Set the time to 1000]
-[16:33:46] [Server thread/INFO]: [ELCI] Closed connection to/127.0.0.1:56810.
-[16:34:25] [Thread-23/INFO]: [ELCI] Starting input thread
-[16:34:25] [Thread-9/INFO]: [ELCI] Opened connection to/127.0.0.1:35416.
-[16:34:25] [Thread-24/INFO]: [ELCI] Starting output thread!
-[16:34:25] [Server thread/INFO]: [Toonifyer: Set the time to 1000]
-[16:34:25] [Server thread/INFO]: [ELCI] Closed connection to/127.0.0.1:35416.
-[16:34:46] [Thread-27/INFO]: [ELCI] Starting input thread
-[16:34:46] [Thread-9/INFO]: [ELCI] Opened connection to/127.0.0.1:58102.
-[16:34:46] [Thread-28/INFO]: [ELCI] Starting output thread!
-[16:34:46] [Server thread/INFO]: [Toonifyer: Set the time to 1000]
-[16:34:46] [Server thread/INFO]: [ELCI] Closed connection to/127.0.0.1:58102.
-[16:37:11] [Thread-32/INFO]: [ELCI] Starting output thread!
-[16:37:11] [Thread-9/INFO]: [ELCI] Opened connection to/127.0.0.1:53936.
-[16:37:11] [Thread-31/INFO]: [ELCI] Starting input thread
-[16:37:27] [Server thread/INFO]: [ELCI] Closed connection to/127.0.0.1:53936.
-[16:46:44] [Server thread/INFO]: Toonifyer issued server command: /time set day
-[16:46:44] [Server thread/INFO]: [Toonifyer: Set the time to 1000]
-[16:47:29] [Thread-9/INFO]: [ELCI] Opened connection to/127.0.0.1:41384.
-[16:47:29] [Thread-41/INFO]: [ELCI] Starting output thread!
-[16:47:29] [Thread-40/INFO]: [ELCI] Starting input thread
-[16:47:29] [Server thread/INFO]: [ELCI] Closed connection to/127.0.0.1:41384.
-[16:48:41] [Server thread/INFO]: Toonifyer issued server command: /setblock 10 -60 -10 air replace
-[16:48:41] [Server thread/INFO]: [Toonifyer: Changed the block at 10, -60, -10]
-[16:50:34] [Server thread/INFO]: Toonifyer issued server command: /fill 10 -60 -10 20 -60 10
-[16:50:59] [Server thread/INFO]: Toonifyer issued server command: /fill 10 -60 -10 20 -60 10 minecraft:air
-[16:50:59] [Server thread/INFO]: [Toonifyer: Successfully filled 199 blocks]
-[16:51:36] [Thread-45/INFO]: [ELCI] Starting input thread
-[16:51:36] [Thread-9/INFO]: [ELCI] Opened connection to/127.0.0.1:50958.
-[16:51:36] [Thread-46/INFO]: [ELCI] Starting output thread!
-[16:51:36] [Server thread/INFO]: [ELCI] Closed connection to/127.0.0.1:50958.
-[16:57:46] [Thread-9/INFO]: [ELCI] Opened connection to/127.0.0.1:34216.
-[16:57:46] [Thread-50/INFO]: [ELCI] Starting input thread
-[16:57:46] [Thread-51/INFO]: [ELCI] Starting output thread!
-[16:57:46] [Server thread/INFO]: [ELCI] Closed connection to/127.0.0.1:34216.
-[17:01:35] [Thread-54/INFO]: [ELCI] Starting input thread
-[17:01:35] [Thread-9/INFO]: [ELCI] Opened connection to/127.0.0.1:32918.
-[17:01:35] [Thread-55/INFO]: [ELCI] Starting output thread!
-[17:01:35] [Server thread/INFO]: [ELCI] Closed connection to/127.0.0.1:32918.
-[17:02:54] [Thread-9/INFO]: [ELCI] Opened connection to/127.0.0.1:33920.
-[17:02:54] [Thread-60/INFO]: [ELCI] Starting input thread
-[17:02:54] [Thread-61/INFO]: [ELCI] Starting output thread!
-[17:02:54] [Server thread/INFO]: [ELCI] Closed connection to/127.0.0.1:33920.
-[17:13:03] [Thread-69/INFO]: [ELCI] Starting input thread
-[17:13:03] [Thread-9/INFO]: [ELCI] Opened connection to/127.0.0.1:33706.
-[17:13:03] [Thread-70/INFO]: [ELCI] Starting output thread!
-[17:13:03] [Server thread/INFO]: [ELCI] Closed connection to/127.0.0.1:33706.
-[17:14:44] [Server thread/INFO]: Toonifyer issued server command: /fill 10 -60 -23 20 -60 20 air
-[17:14:44] [Server thread/INFO]: [Toonifyer: Successfully filled 56 blocks]
-[17:33:19] [Thread-9/INFO]: [ELCI] Opened connection to/127.0.0.1:51058.
-[17:33:19] [Thread-85/INFO]: [ELCI] Starting input thread
-[17:33:19] [Thread-86/INFO]: [ELCI] Starting output thread!
-[17:33:19] [Server thread/INFO]: [ELCI] Closed connection to/127.0.0.1:51058.
-[17:35:58] [Thread-91/INFO]: [ELCI] Starting input thread
-[17:35:58] [Thread-9/INFO]: [ELCI] Opened connection to/127.0.0.1:41282.
-[17:35:58] [Thread-92/INFO]: [ELCI] Starting output thread!
-[17:35:58] [Server thread/INFO]: [ELCI] Closed connection to/127.0.0.1:41282.
-[17:36:41] [Thread-9/INFO]: [ELCI] Opened connection to/127.0.0.1:47406.
-[17:36:41] [Thread-93/INFO]: [ELCI] Starting input thread
-[17:36:41] [Thread-94/INFO]: [ELCI] Starting output thread!
-[17:36:41] [Server thread/INFO]: [ELCI] Closed connection to/127.0.0.1:47406.
-[17:42:15] [Thread-100/INFO]: [ELCI] Starting input thread
-[17:42:15] [Thread-9/INFO]: [ELCI] Opened connection to/127.0.0.1:32980.
-[17:42:15] [Thread-101/INFO]: [ELCI] Starting output thread!
-[17:42:15] [Server thread/INFO]: [ELCI] Closed connection to/127.0.0.1:32980.
-[17:48:41] [Thread-107/INFO]: [ELCI] Starting input thread
-[17:48:41] [Thread-9/INFO]: [ELCI] Opened connection to/127.0.0.1:41958.
-[17:48:41] [Thread-108/INFO]: [ELCI] Starting output thread!
-[17:48:41] [Server thread/INFO]: [ELCI] Closed connection to/127.0.0.1:41958.
-[17:51:03] [Thread-9/INFO]: [ELCI] Opened connection to/127.0.0.1:35116.
-[17:51:03] [Thread-110/INFO]: [ELCI] Starting input thread
-[17:51:03] [Thread-111/INFO]: [ELCI] Starting output thread!
-[17:51:03] [Server thread/INFO]: [ELCI] Closed connection to/127.0.0.1:35116.
-[17:52:49] [Thread-9/INFO]: [ELCI] Opened connection to/127.0.0.1:38354.
-[17:52:49] [Thread-112/INFO]: [ELCI] Starting input thread
-[17:52:49] [Thread-113/INFO]: [ELCI] Starting output thread!
-[17:52:49] [Server thread/INFO]: [ELCI] Closed connection to/127.0.0.1:38354.
-[17:54:16] [Thread-115/INFO]: [ELCI] Starting input thread
-[17:54:16] [Thread-9/INFO]: [ELCI] Opened connection to/127.0.0.1:53788.
-[17:54:16] [Thread-116/INFO]: [ELCI] Starting output thread!
-[17:54:16] [Server thread/INFO]: [ELCI] Closed connection to/127.0.0.1:53788.
-[17:55:41] [Thread-119/INFO]: [ELCI] Starting input thread
-[17:55:41] [Thread-9/INFO]: [ELCI] Opened connection to/127.0.0.1:50428.
-[17:55:41] [Thread-120/INFO]: [ELCI] Starting output thread!
-[17:55:42] [Server thread/INFO]: [ELCI] Closed connection to/127.0.0.1:50428.
-[18:01:55] [Thread-9/INFO]: [ELCI] Opened connection to/127.0.0.1:32944.
-[18:01:55] [Thread-129/INFO]: [ELCI] Starting input thread
-[18:01:55] [Thread-130/INFO]: [ELCI] Starting output thread!
-[18:01:55] [Server thread/INFO]: [ELCI] Closed connection to/127.0.0.1:32944.
-[18:02:28] [Server thread/INFO]: Toonifyer lost connection: Disconnected
-[18:02:29] [Server thread/INFO]: Toonifyer left the game
-[18:03:18] [Server thread/INFO]: Stopping the server
-[18:03:18] [Server thread/INFO]: Stopping server
-[18:03:18] [Server thread/INFO]: [ELCI] Disabling ELCI v1.12.1
-[18:03:18] [Server thread/INFO]: [ELCI] Raspberry Juice Stopped
-[18:03:18] [Server thread/INFO]: [SetSpawn] Disabling SetSpawn v3.4
-[18:03:18] [Server thread/INFO]: [SetSpawn] Disabled!
-[18:03:18] [Server thread/INFO]: Saving players
-[18:03:18] [Server thread/INFO]: Saving worlds
-[18:03:20] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[18:03:28] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[18:03:28] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[14:30:24] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[14:30:29] [ServerMain/INFO]: Loaded 7 recipes
+[14:30:30] [Server thread/INFO]: Starting minecraft server version 1.19.4
+[14:30:30] [Server thread/INFO]: Loading properties
+[14:30:31] [Server thread/INFO]: This server is running CraftBukkit version 3714-Spigot-b31949f-3ae9069 (MC: 1.19.4) (Implementing API version 1.19.4-R0.1-SNAPSHOT)
+[14:30:31] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[14:30:31] [Server thread/INFO]: Using 4 threads for Netty based IO
+[14:30:31] [Server thread/INFO]: Debug logging is disabled
+[14:30:31] [Server thread/INFO]: Default game type: CREATIVE
+[14:30:31] [Server thread/INFO]: Generating keypair
+[14:30:31] [Server thread/INFO]: Starting Minecraft server on *:25565
+[14:30:31] [Server thread/INFO]: Using epoll channel type
+[14:30:33] [Server thread/WARN]: Initializing Legacy Material Support. Unless you have legacy plugins and/or data this is a bug!
+[14:30:37] [Server thread/WARN]: Legacy plugin SetSpawn v3.4 does not specify an api-version.
+[14:30:37] [Server thread/WARN]: Legacy plugin ELCI v1.12.1 does not specify an api-version.
+[14:30:37] [Server thread/INFO]: [SetSpawn] Loading SetSpawn v3.4
+[14:30:37] [Server thread/INFO]: [ELCI] Loading ELCI v1.12.1
+[14:30:37] [Server thread/INFO]: Preparing level "world"
+[14:30:37] [Server thread/INFO]: -------- World Settings For [world] --------
+[14:30:37] [Server thread/INFO]: Experience Merge Radius: 3.0
+[14:30:37] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[14:30:37] [Server thread/INFO]: Cane Growth Modifier: 100%
+[14:30:37] [Server thread/INFO]: Melon Growth Modifier: 100%
+[14:30:37] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[14:30:37] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[14:30:37] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[14:30:37] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[14:30:37] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[14:30:37] [Server thread/INFO]: Potato Growth Modifier: 100%
+[14:30:37] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[14:30:37] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[14:30:37] [Server thread/INFO]: Vine Growth Modifier: 100%
+[14:30:37] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[14:30:37] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[14:30:37] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[14:30:37] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[14:30:37] [Server thread/INFO]: TwistingVines Growth Modifier: 100%
+[14:30:37] [Server thread/INFO]: WeepingVines Growth Modifier: 100%
+[14:30:37] [Server thread/INFO]: CaveVines Growth Modifier: 100%
+[14:30:37] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true / Isa false
+[14:30:37] [Server thread/INFO]: Max TNT Explosions: 100
+[14:30:37] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[14:30:37] [Server thread/INFO]: Mob Spawn Range: 6
+[14:30:37] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[14:30:37] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1 Hopper Can Load Chunks: false
+[14:30:37] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Nether: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[14:30:37] [Server thread/INFO]: View Distance: 10
+[14:30:37] [Server thread/INFO]: Simulation Distance: 10
+[14:30:37] [Server thread/INFO]: Item Despawn Rate: 6000
+[14:30:37] [Server thread/INFO]: Item Merge Radius: 2.5
+[14:30:37] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[14:30:37] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[14:30:37] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[14:30:37] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[14:30:37] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[14:30:41] [Worker-Main-7/INFO]: Preparing spawn area: 0%
+[14:30:41] [Worker-Main-7/INFO]: Preparing spawn area: 0%
+[14:30:41] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[14:30:41] [Worker-Main-8/INFO]: Preparing spawn area: 0%
+[14:30:41] [Worker-Main-8/INFO]: Preparing spawn area: 0%
+[14:30:41] [Worker-Main-8/INFO]: Preparing spawn area: 0%
+[14:30:41] [Worker-Main-7/INFO]: Preparing spawn area: 0%
+[14:30:41] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[14:30:41] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[14:30:42] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[14:30:42] [Worker-Main-11/INFO]: Preparing spawn area: 0%
+[14:30:43] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[14:30:43] [Worker-Main-2/INFO]: Preparing spawn area: 3%
+[14:30:44] [Worker-Main-10/INFO]: Preparing spawn area: 24%
+[14:30:44] [Worker-Main-10/INFO]: Preparing spawn area: 50%
+[14:30:45] [Worker-Main-12/INFO]: Preparing spawn area: 91%
+[14:30:45] [Server thread/INFO]: Time elapsed: 7600 ms
+[14:30:45] [Server thread/INFO]: [SetSpawn] Enabling SetSpawn v3.4
+[14:30:45] [Server thread/INFO]: [SetSpawn] Enabled!
+[14:30:45] [Server thread/INFO]: [ELCI] Enabling ELCI v1.12.1
+[14:30:45] [Server thread/INFO]: [ELCI] Using host:port - 0.0.0.0:4711
+[14:30:45] [Server thread/INFO]: [ELCI] ThreadListener Started
+[14:30:45] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[14:30:45] [Server thread/INFO]: Done (8.539s)! For help, type "help"
+[14:31:05] [Server thread/INFO]: com.mojang.authlib.GameProfile@4eaa48a8[id=<null>,name=Toonifyer,properties={},legacy=false] (/[0:0:0:0:0:0:0:1%0]:42254) lost connection: Disconnected
+[14:32:35] [User Authenticator #1/INFO]: UUID of player Toonifyer is 8ff1ac14-21b6-4387-9fa5-9232b163b1cd
+[14:32:35] [Server thread/INFO]: Welcome Toonifyer[m
+[14:32:35] [Server thread/INFO]: Toonifyer joined the game
+[14:32:36] [Server thread/INFO]: Toonifyer[/[0:0:0:0:0:0:0:1%0]:48344] logged in with entity id 15 at ([world]32.704799914705845, -58.0, 28.848225074765928)
+[14:39:49] [Thread-17/INFO]: [ELCI] Starting input thread
+[14:39:49] [Thread-8/INFO]: [ELCI] Opened connection to/127.0.0.1:51736.
+[14:39:49] [Thread-18/INFO]: [ELCI] Starting output thread!
+[14:39:49] [Server thread/INFO]: [ELCI] Closed connection to/127.0.0.1:51736.
+[14:40:17] [Server thread/INFO]: Toonifyer lost connection: Disconnected
+[14:40:17] [Server thread/INFO]: Toonifyer left the game
+[14:50:06] [User Authenticator #2/INFO]: UUID of player Toonifyer is 8ff1ac14-21b6-4387-9fa5-9232b163b1cd
+[14:50:07] [Server thread/INFO]: Welcome Toonifyer[m
+[14:50:07] [Server thread/INFO]: Toonifyer joined the game
+[14:50:07] [Server thread/INFO]: Toonifyer[/[0:0:0:0:0:0:0:1%0]:56152] logged in with entity id 41 at ([world]21.442529910472604, -60.0, 34.13415956828293)
+[14:50:16] [Server thread/INFO]: Toonifyer issued server command: /time set day
