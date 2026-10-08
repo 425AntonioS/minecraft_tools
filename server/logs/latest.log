@@ -117,3 +117,79 @@
 [14:59:21] [Server thread/INFO]: [ELCI] Closed connection to/127.0.0.1:39496.
 [14:59:21] [Server thread/INFO]: [ELCI] Closed connection to/127.0.0.1:57040.
 [14:59:21] [Server thread/INFO]: [ELCI] Closed connection to/127.0.0.1:57050.
+[14:59:21] [Server thread/INFO]: [ELCI] Closed connection to/127.0.0.1:57058.
+[15:01:49] [Server thread/INFO]: Toonifyer issued server command: /time set day
+[15:01:49] [Server thread/INFO]: [Toonifyer: Set the time to 1000]
+[15:02:08] [Thread-61/INFO]: [ELCI] Starting input thread
+[15:02:08] [Thread-8/INFO]: [ELCI] Opened connection to/127.0.0.1:39072.
+[15:02:08] [Thread-62/INFO]: [ELCI] Starting output thread!
+[15:02:25] [Thread-8/INFO]: [ELCI] Opened connection to/127.0.0.1:54120.
+[15:02:25] [Thread-63/INFO]: [ELCI] Starting input thread
+[15:02:25] [Thread-64/INFO]: [ELCI] Starting output thread!
+[15:02:25] [Thread-8/INFO]: [ELCI] Opened connection to/127.0.0.1:54130.
+[15:02:25] [Thread-65/INFO]: [ELCI] Starting input thread
+[15:02:25] [Thread-66/INFO]: [ELCI] Starting output thread!
+[15:02:25] [Thread-8/INFO]: [ELCI] Opened connection to/127.0.0.1:54140.
+[15:02:25] [Thread-68/INFO]: [ELCI] Starting output thread!
+[15:02:25] [Thread-67/INFO]: [ELCI] Starting input thread
+[15:02:25] [Server thread/WARN]: [ELCI] Task #2 for ELCI v1.12.1 generated an exception
+java.util.ConcurrentModificationException: null
+	at java.util.ArrayList$Itr.checkForComodification(ArrayList.java:1013) ~[?:?]
+	at java.util.ArrayList$Itr.next(ArrayList.java:967) ~[?:?]
+	at net.rozukke.elci.ELCIPlugin$TickHandler.run(ELCIPlugin.java:149) ~[?:?]
+	at org.bukkit.craftbukkit.v1_19_R3.scheduler.CraftTask.run(CraftTask.java:82) ~[spigot-1.19.4-R0.1-SNAPSHOT.jar:3714-Spigot-b31949f-3ae9069]
+	at org.bukkit.craftbukkit.v1_19_R3.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:415) ~[spigot-1.19.4-R0.1-SNAPSHOT.jar:3714-Spigot-b31949f-3ae9069]
+	at net.minecraft.server.MinecraftServer.b(MinecraftServer.java:1259) ~[spigot-1.19.4-R0.1-SNAPSHOT.jar:3714-Spigot-b31949f-3ae9069]
+	at net.minecraft.server.dedicated.DedicatedServer.b(DedicatedServer.java:388) ~[spigot-1.19.4-R0.1-SNAPSHOT.jar:3714-Spigot-b31949f-3ae9069]
+	at net.minecraft.server.MinecraftServer.a(MinecraftServer.java:1200) ~[spigot-1.19.4-R0.1-SNAPSHOT.jar:3714-Spigot-b31949f-3ae9069]
+	at net.minecraft.server.MinecraftServer.w(MinecraftServer.java:1017) ~[spigot-1.19.4-R0.1-SNAPSHOT.jar:3714-Spigot-b31949f-3ae9069]
+	at net.minecraft.server.MinecraftServer.lambda$0(MinecraftServer.java:304) ~[spigot-1.19.4-R0.1-SNAPSHOT.jar:3714-Spigot-b31949f-3ae9069]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[15:02:25] [Server thread/INFO]: [ELCI] Closed connection to/127.0.0.1:54120.
+[15:02:26] [Server thread/INFO]: [ELCI] Closed connection to/127.0.0.1:39072.
+[15:02:26] [Server thread/INFO]: [ELCI] Closed connection to/127.0.0.1:54130.
+[15:02:26] [Server thread/INFO]: [ELCI] Closed connection to/127.0.0.1:54140.
+[15:03:16] [Thread-8/INFO]: [ELCI] Opened connection to/127.0.0.1:55330.
+[15:03:16] [Thread-69/INFO]: [ELCI] Starting input thread
+[15:03:16] [Thread-70/INFO]: [ELCI] Starting output thread!
+[15:03:22] [Thread-8/INFO]: [ELCI] Opened connection to/127.0.0.1:57522.
+[15:03:22] [Thread-71/INFO]: [ELCI] Starting input thread
+[15:03:22] [Thread-72/INFO]: [ELCI] Starting output thread!
+[15:03:22] [Thread-74/INFO]: [ELCI] Starting output thread!
+[15:03:22] [Thread-8/INFO]: [ELCI] Opened connection to/127.0.0.1:57526.
+[15:03:22] [Thread-73/INFO]: [ELCI] Starting input thread
+[15:03:22] [Thread-8/INFO]: [ELCI] Opened connection to/127.0.0.1:57538.
+[15:03:22] [Thread-75/INFO]: [ELCI] Starting input thread
+[15:03:22] [Thread-76/INFO]: [ELCI] Starting output thread!
+[15:03:22] [Server thread/WARN]: [ELCI] Task #2 for ELCI v1.12.1 generated an exception
+java.util.ConcurrentModificationException: null
+	at java.util.ArrayList$Itr.checkForComodification(ArrayList.java:1013) ~[?:?]
+	at java.util.ArrayList$Itr.next(ArrayList.java:967) ~[?:?]
+	at net.rozukke.elci.ELCIPlugin$TickHandler.run(ELCIPlugin.java:149) ~[?:?]
+	at org.bukkit.craftbukkit.v1_19_R3.scheduler.CraftTask.run(CraftTask.java:82) ~[spigot-1.19.4-R0.1-SNAPSHOT.jar:3714-Spigot-b31949f-3ae9069]
+	at org.bukkit.craftbukkit.v1_19_R3.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:415) ~[spigot-1.19.4-R0.1-SNAPSHOT.jar:3714-Spigot-b31949f-3ae9069]
+	at net.minecraft.server.MinecraftServer.b(MinecraftServer.java:1259) ~[spigot-1.19.4-R0.1-SNAPSHOT.jar:3714-Spigot-b31949f-3ae9069]
+	at net.minecraft.server.dedicated.DedicatedServer.b(DedicatedServer.java:388) ~[spigot-1.19.4-R0.1-SNAPSHOT.jar:3714-Spigot-b31949f-3ae9069]
+	at net.minecraft.server.MinecraftServer.a(MinecraftServer.java:1200) ~[spigot-1.19.4-R0.1-SNAPSHOT.jar:3714-Spigot-b31949f-3ae9069]
+	at net.minecraft.server.MinecraftServer.w(MinecraftServer.java:1017) ~[spigot-1.19.4-R0.1-SNAPSHOT.jar:3714-Spigot-b31949f-3ae9069]
+	at net.minecraft.server.MinecraftServer.lambda$0(MinecraftServer.java:304) ~[spigot-1.19.4-R0.1-SNAPSHOT.jar:3714-Spigot-b31949f-3ae9069]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[15:03:22] [Server thread/INFO]: [ELCI] Closed connection to/127.0.0.1:55330.
+[15:03:22] [Server thread/INFO]: [ELCI] Closed connection to/127.0.0.1:57522.
+[15:03:22] [Server thread/INFO]: [ELCI] Closed connection to/127.0.0.1:57526.
+[15:03:22] [Server thread/INFO]: [ELCI] Closed connection to/127.0.0.1:57538.
+[15:04:00] [Thread-78/INFO]: [ELCI] Starting output thread!
+[15:04:00] [Thread-77/INFO]: [ELCI] Starting input thread
+[15:04:00] [Thread-8/INFO]: [ELCI] Opened connection to/127.0.0.1:51700.
+[15:04:08] [Thread-8/INFO]: [ELCI] Opened connection to/127.0.0.1:55576.
+[15:04:08] [Thread-79/INFO]: [ELCI] Starting input thread
+[15:04:08] [Thread-80/INFO]: [ELCI] Starting output thread!
+[15:04:08] [Thread-81/INFO]: [ELCI] Starting input thread
+[15:04:08] [Thread-8/INFO]: [ELCI] Opened connection to/127.0.0.1:55592.
+[15:04:08] [Thread-82/INFO]: [ELCI] Starting output thread!
+[15:04:08] [Thread-8/INFO]: [ELCI] Opened connection to/127.0.0.1:55606.
+[15:04:08] [Thread-83/INFO]: [ELCI] Starting input thread
+[15:04:08] [Thread-84/INFO]: [ELCI] Starting output thread!
+[15:04:08] [Server thread/INFO]: [ELCI] Closed connection to/127.0.0.1:51700.
+[15:04:08] [Server thread/INFO]: [ELCI] Closed connection to/127.0.0.1:55576.
+[15:04:08] [Server thread/INFO]: [ELCI] Closed connection to/127.0.0.1:55592.
