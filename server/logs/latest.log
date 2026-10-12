@@ -97,3 +97,20 @@
 [16:15:01] [Server thread/INFO]: [ELCI] Closed connection to/127.0.0.1:51362.
 [16:21:16] [Thread-28/INFO]: [ELCI] Starting input thread
 [16:21:16] [Thread-9/INFO]: [ELCI] Opened connection to/127.0.0.1:56334.
+[16:21:16] [Thread-29/INFO]: [ELCI] Starting output thread!
+[16:21:56] [Server thread/INFO]: [ELCI] Closed connection to/127.0.0.1:56334.
+[16:22:09] [Thread-9/INFO]: [ELCI] Opened connection to/127.0.0.1:60942.
+[16:22:09] [Thread-32/INFO]: [ELCI] Starting input thread
+[16:22:09] [Thread-33/INFO]: [ELCI] Starting output thread!
+[16:22:13] [Thread-9/INFO]: [ELCI] Opened connection to/127.0.0.1:60944.
+[16:22:13] [Thread-34/INFO]: [ELCI] Starting input thread
+[16:22:13] [Thread-35/INFO]: [ELCI] Starting output thread!
+[16:22:13] [Thread-9/INFO]: [ELCI] Opened connection to/127.0.0.1:60950.
+[16:22:13] [Thread-37/INFO]: [ELCI] Starting output thread!
+[16:22:13] [Thread-36/INFO]: [ELCI] Starting input thread
+[16:22:13] [Thread-39/INFO]: [ELCI] Starting output thread!
+[16:22:13] [Thread-38/INFO]: [ELCI] Starting input thread
+[16:22:13] [Thread-9/INFO]: [ELCI] Opened connection to/127.0.0.1:60960.
+[16:22:13] [Server thread/INFO]: [ELCI] Closed connection to/127.0.0.1:60942.
+[16:22:13] [Server thread/INFO]: [ELCI] Closed connection to/127.0.0.1:60944.
+[16:22:13] [Server thread/INFO]: [ELCI] Closed connection to/127.0.0.1:60950.
