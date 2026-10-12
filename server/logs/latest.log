@@ -115,3 +115,23 @@
 [16:22:13] [Server thread/INFO]: [ELCI] Closed connection to/127.0.0.1:60944.
 [16:22:13] [Server thread/INFO]: [ELCI] Closed connection to/127.0.0.1:60950.
 [16:22:13] [Server thread/INFO]: [ELCI] Closed connection to/127.0.0.1:60960.
+[16:40:21] [Server thread/INFO]: Toonifyer issued server command: /time set day
+[16:40:21] [Server thread/INFO]: [Toonifyer: Set the time to 1000]
+[16:40:48] [Server thread/INFO]: Toonifyer issued server command: /weather clear
+[16:40:48] [Server thread/INFO]: [Toonifyer: Set the weather to clear]
+[16:41:14] [Thread-9/INFO]: [ELCI] Opened connection to/127.0.0.1:42640.
+[16:41:14] [Thread-55/INFO]: [ELCI] Starting input thread
+[16:41:14] [Thread-56/INFO]: [ELCI] Starting output thread!
+[16:41:18] [Thread-9/INFO]: [ELCI] Opened connection to/127.0.0.1:55670.
+[16:41:18] [Thread-57/INFO]: [ELCI] Starting input thread
+[16:41:18] [Thread-58/INFO]: [ELCI] Starting output thread!
+[16:41:18] [Thread-60/INFO]: [ELCI] Starting output thread!
+[16:41:18] [Thread-9/INFO]: [ELCI] Opened connection to/127.0.0.1:55678.
+[16:41:18] [Thread-59/INFO]: [ELCI] Starting input thread
+[16:41:18] [Thread-62/INFO]: [ELCI] Starting output thread!
+[16:41:18] [Thread-9/INFO]: [ELCI] Opened connection to/127.0.0.1:55684.
+[16:41:18] [Thread-61/INFO]: [ELCI] Starting input thread
+[16:41:19] [Server thread/INFO]: [ELCI] Closed connection to/127.0.0.1:42640.
+[16:41:19] [Server thread/INFO]: [ELCI] Closed connection to/127.0.0.1:55670.
+[16:41:19] [Server thread/INFO]: [ELCI] Closed connection to/127.0.0.1:55678.
+[16:41:19] [Server thread/INFO]: [ELCI] Closed connection to/127.0.0.1:55684.
