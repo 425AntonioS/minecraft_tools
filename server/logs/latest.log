@@ -1,236 +1,99 @@
-[14:30:24] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[14:30:29] [ServerMain/INFO]: Loaded 7 recipes
-[14:30:30] [Server thread/INFO]: Starting minecraft server version 1.19.4
-[14:30:30] [Server thread/INFO]: Loading properties
-[14:30:31] [Server thread/INFO]: This server is running CraftBukkit version 3714-Spigot-b31949f-3ae9069 (MC: 1.19.4) (Implementing API version 1.19.4-R0.1-SNAPSHOT)
-[14:30:31] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[14:30:31] [Server thread/INFO]: Using 4 threads for Netty based IO
-[14:30:31] [Server thread/INFO]: Debug logging is disabled
-[14:30:31] [Server thread/INFO]: Default game type: CREATIVE
-[14:30:31] [Server thread/INFO]: Generating keypair
-[14:30:31] [Server thread/INFO]: Starting Minecraft server on *:25565
-[14:30:31] [Server thread/INFO]: Using epoll channel type
-[14:30:33] [Server thread/WARN]: Initializing Legacy Material Support. Unless you have legacy plugins and/or data this is a bug!
-[14:30:37] [Server thread/WARN]: Legacy plugin SetSpawn v3.4 does not specify an api-version.
-[14:30:37] [Server thread/WARN]: Legacy plugin ELCI v1.12.1 does not specify an api-version.
-[14:30:37] [Server thread/INFO]: [SetSpawn] Loading SetSpawn v3.4
-[14:30:37] [Server thread/INFO]: [ELCI] Loading ELCI v1.12.1
-[14:30:37] [Server thread/INFO]: Preparing level "world"
-[14:30:37] [Server thread/INFO]: -------- World Settings For [world] --------
-[14:30:37] [Server thread/INFO]: Experience Merge Radius: 3.0
-[14:30:37] [Server thread/INFO]: Cactus Growth Modifier: 100%
-[14:30:37] [Server thread/INFO]: Cane Growth Modifier: 100%
-[14:30:37] [Server thread/INFO]: Melon Growth Modifier: 100%
-[14:30:37] [Server thread/INFO]: Mushroom Growth Modifier: 100%
-[14:30:37] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
-[14:30:37] [Server thread/INFO]: Sapling Growth Modifier: 100%
-[14:30:37] [Server thread/INFO]: Beetroot Growth Modifier: 100%
-[14:30:37] [Server thread/INFO]: Carrot Growth Modifier: 100%
-[14:30:37] [Server thread/INFO]: Potato Growth Modifier: 100%
-[14:30:37] [Server thread/INFO]: Wheat Growth Modifier: 100%
-[14:30:37] [Server thread/INFO]: NetherWart Growth Modifier: 100%
-[14:30:37] [Server thread/INFO]: Vine Growth Modifier: 100%
-[14:30:37] [Server thread/INFO]: Cocoa Growth Modifier: 100%
-[14:30:37] [Server thread/INFO]: Bamboo Growth Modifier: 100%
-[14:30:37] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
-[14:30:37] [Server thread/INFO]: Kelp Growth Modifier: 100%
-[14:30:37] [Server thread/INFO]: TwistingVines Growth Modifier: 100%
-[14:30:37] [Server thread/INFO]: WeepingVines Growth Modifier: 100%
-[14:30:37] [Server thread/INFO]: CaveVines Growth Modifier: 100%
-[14:30:37] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true / Isa false
-[14:30:37] [Server thread/INFO]: Max TNT Explosions: 100
-[14:30:37] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
-[14:30:37] [Server thread/INFO]: Mob Spawn Range: 6
-[14:30:37] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
-[14:30:37] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1 Hopper Can Load Chunks: false
-[14:30:37] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Nether: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
-[14:30:37] [Server thread/INFO]: View Distance: 10
-[14:30:37] [Server thread/INFO]: Simulation Distance: 10
-[14:30:37] [Server thread/INFO]: Item Despawn Rate: 6000
-[14:30:37] [Server thread/INFO]: Item Merge Radius: 2.5
-[14:30:37] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
-[14:30:37] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
-[14:30:37] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
-[14:30:37] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
-[14:30:37] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[14:30:41] [Worker-Main-7/INFO]: Preparing spawn area: 0%
-[14:30:41] [Worker-Main-7/INFO]: Preparing spawn area: 0%
-[14:30:41] [Worker-Main-5/INFO]: Preparing spawn area: 0%
-[14:30:41] [Worker-Main-8/INFO]: Preparing spawn area: 0%
-[14:30:41] [Worker-Main-8/INFO]: Preparing spawn area: 0%
-[14:30:41] [Worker-Main-8/INFO]: Preparing spawn area: 0%
-[14:30:41] [Worker-Main-7/INFO]: Preparing spawn area: 0%
-[14:30:41] [Worker-Main-5/INFO]: Preparing spawn area: 0%
-[14:30:41] [Worker-Main-5/INFO]: Preparing spawn area: 0%
-[14:30:42] [Worker-Main-4/INFO]: Preparing spawn area: 0%
-[14:30:42] [Worker-Main-11/INFO]: Preparing spawn area: 0%
-[14:30:43] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[14:30:43] [Worker-Main-2/INFO]: Preparing spawn area: 3%
-[14:30:44] [Worker-Main-10/INFO]: Preparing spawn area: 24%
-[14:30:44] [Worker-Main-10/INFO]: Preparing spawn area: 50%
-[14:30:45] [Worker-Main-12/INFO]: Preparing spawn area: 91%
-[14:30:45] [Server thread/INFO]: Time elapsed: 7600 ms
-[14:30:45] [Server thread/INFO]: [SetSpawn] Enabling SetSpawn v3.4
-[14:30:45] [Server thread/INFO]: [SetSpawn] Enabled!
-[14:30:45] [Server thread/INFO]: [ELCI] Enabling ELCI v1.12.1
-[14:30:45] [Server thread/INFO]: [ELCI] Using host:port - 0.0.0.0:4711
-[14:30:45] [Server thread/INFO]: [ELCI] ThreadListener Started
-[14:30:45] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[14:30:45] [Server thread/INFO]: Done (8.539s)! For help, type "help"
-[14:31:05] [Server thread/INFO]: com.mojang.authlib.GameProfile@4eaa48a8[id=<null>,name=Toonifyer,properties={},legacy=false] (/[0:0:0:0:0:0:0:1%0]:42254) lost connection: Disconnected
-[14:32:35] [User Authenticator #1/INFO]: UUID of player Toonifyer is 8ff1ac14-21b6-4387-9fa5-9232b163b1cd
-[14:32:35] [Server thread/INFO]: Welcome Toonifyer[m
-[14:32:35] [Server thread/INFO]: Toonifyer joined the game
-[14:32:36] [Server thread/INFO]: Toonifyer[/[0:0:0:0:0:0:0:1%0]:48344] logged in with entity id 15 at ([world]32.704799914705845, -58.0, 28.848225074765928)
-[14:39:49] [Thread-17/INFO]: [ELCI] Starting input thread
-[14:39:49] [Thread-8/INFO]: [ELCI] Opened connection to/127.0.0.1:51736.
-[14:39:49] [Thread-18/INFO]: [ELCI] Starting output thread!
-[14:39:49] [Server thread/INFO]: [ELCI] Closed connection to/127.0.0.1:51736.
-[14:40:17] [Server thread/INFO]: Toonifyer lost connection: Disconnected
-[14:40:17] [Server thread/INFO]: Toonifyer left the game
-[14:50:06] [User Authenticator #2/INFO]: UUID of player Toonifyer is 8ff1ac14-21b6-4387-9fa5-9232b163b1cd
-[14:50:07] [Server thread/INFO]: Welcome Toonifyer[m
-[14:50:07] [Server thread/INFO]: Toonifyer joined the game
-[14:50:07] [Server thread/INFO]: Toonifyer[/[0:0:0:0:0:0:0:1%0]:56152] logged in with entity id 41 at ([world]21.442529910472604, -60.0, 34.13415956828293)
-[14:50:16] [Server thread/INFO]: Toonifyer issued server command: /time set day
-[14:50:16] [Server thread/INFO]: [Toonifyer: Set the time to 1000]
-[14:51:44] [Thread-8/INFO]: [ELCI] Opened connection to/127.0.0.1:43344.
-[14:51:44] [Thread-33/INFO]: [ELCI] Starting input thread
-[14:51:44] [Thread-34/INFO]: [ELCI] Starting output thread!
-[14:52:01] [Thread-35/INFO]: [ELCI] Starting input thread
-[14:52:01] [Thread-8/INFO]: [ELCI] Opened connection to/127.0.0.1:56290.
-[14:52:01] [Thread-36/INFO]: [ELCI] Starting output thread!
-[14:52:01] [Server thread/INFO]: [ELCI] Closed connection to/127.0.0.1:43344.
-[14:52:01] [Server thread/INFO]: [ELCI] Closed connection to/127.0.0.1:56290.
-[14:58:15] [Thread-8/INFO]: [ELCI] Opened connection to/127.0.0.1:39496.
-[14:58:15] [Thread-46/INFO]: [ELCI] Starting input thread
-[14:58:15] [Thread-47/INFO]: [ELCI] Starting output thread!
-[14:59:21] [Thread-48/INFO]: [ELCI] Starting input thread
-[14:59:21] [Thread-8/INFO]: [ELCI] Opened connection to/127.0.0.1:57040.
-[14:59:21] [Thread-49/INFO]: [ELCI] Starting output thread!
-[14:59:21] [Thread-8/INFO]: [ELCI] Opened connection to/127.0.0.1:57050.
-[14:59:21] [Thread-51/INFO]: [ELCI] Starting output thread!
-[14:59:21] [Thread-52/INFO]: [ELCI] Starting input thread
-[14:59:21] [Thread-50/INFO]: [ELCI] Starting input thread
-[14:59:21] [Thread-8/INFO]: [ELCI] Opened connection to/127.0.0.1:57058.
-[14:59:21] [Thread-53/INFO]: [ELCI] Starting output thread!
-[14:59:21] [Server thread/INFO]: [ELCI] Closed connection to/127.0.0.1:39496.
-[14:59:21] [Server thread/INFO]: [ELCI] Closed connection to/127.0.0.1:57040.
-[14:59:21] [Server thread/INFO]: [ELCI] Closed connection to/127.0.0.1:57050.
-[14:59:21] [Server thread/INFO]: [ELCI] Closed connection to/127.0.0.1:57058.
-[15:01:49] [Server thread/INFO]: Toonifyer issued server command: /time set day
-[15:01:49] [Server thread/INFO]: [Toonifyer: Set the time to 1000]
-[15:02:08] [Thread-61/INFO]: [ELCI] Starting input thread
-[15:02:08] [Thread-8/INFO]: [ELCI] Opened connection to/127.0.0.1:39072.
-[15:02:08] [Thread-62/INFO]: [ELCI] Starting output thread!
-[15:02:25] [Thread-8/INFO]: [ELCI] Opened connection to/127.0.0.1:54120.
-[15:02:25] [Thread-63/INFO]: [ELCI] Starting input thread
-[15:02:25] [Thread-64/INFO]: [ELCI] Starting output thread!
-[15:02:25] [Thread-8/INFO]: [ELCI] Opened connection to/127.0.0.1:54130.
-[15:02:25] [Thread-65/INFO]: [ELCI] Starting input thread
-[15:02:25] [Thread-66/INFO]: [ELCI] Starting output thread!
-[15:02:25] [Thread-8/INFO]: [ELCI] Opened connection to/127.0.0.1:54140.
-[15:02:25] [Thread-68/INFO]: [ELCI] Starting output thread!
-[15:02:25] [Thread-67/INFO]: [ELCI] Starting input thread
-[15:02:25] [Server thread/WARN]: [ELCI] Task #2 for ELCI v1.12.1 generated an exception
-java.util.ConcurrentModificationException: null
-	at java.util.ArrayList$Itr.checkForComodification(ArrayList.java:1013) ~[?:?]
-	at java.util.ArrayList$Itr.next(ArrayList.java:967) ~[?:?]
-	at net.rozukke.elci.ELCIPlugin$TickHandler.run(ELCIPlugin.java:149) ~[?:?]
-	at org.bukkit.craftbukkit.v1_19_R3.scheduler.CraftTask.run(CraftTask.java:82) ~[spigot-1.19.4-R0.1-SNAPSHOT.jar:3714-Spigot-b31949f-3ae9069]
-	at org.bukkit.craftbukkit.v1_19_R3.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:415) ~[spigot-1.19.4-R0.1-SNAPSHOT.jar:3714-Spigot-b31949f-3ae9069]
-	at net.minecraft.server.MinecraftServer.b(MinecraftServer.java:1259) ~[spigot-1.19.4-R0.1-SNAPSHOT.jar:3714-Spigot-b31949f-3ae9069]
-	at net.minecraft.server.dedicated.DedicatedServer.b(DedicatedServer.java:388) ~[spigot-1.19.4-R0.1-SNAPSHOT.jar:3714-Spigot-b31949f-3ae9069]
-	at net.minecraft.server.MinecraftServer.a(MinecraftServer.java:1200) ~[spigot-1.19.4-R0.1-SNAPSHOT.jar:3714-Spigot-b31949f-3ae9069]
-	at net.minecraft.server.MinecraftServer.w(MinecraftServer.java:1017) ~[spigot-1.19.4-R0.1-SNAPSHOT.jar:3714-Spigot-b31949f-3ae9069]
-	at net.minecraft.server.MinecraftServer.lambda$0(MinecraftServer.java:304) ~[spigot-1.19.4-R0.1-SNAPSHOT.jar:3714-Spigot-b31949f-3ae9069]
-	at java.lang.Thread.run(Thread.java:840) ~[?:?]
-[15:02:25] [Server thread/INFO]: [ELCI] Closed connection to/127.0.0.1:54120.
-[15:02:26] [Server thread/INFO]: [ELCI] Closed connection to/127.0.0.1:39072.
-[15:02:26] [Server thread/INFO]: [ELCI] Closed connection to/127.0.0.1:54130.
-[15:02:26] [Server thread/INFO]: [ELCI] Closed connection to/127.0.0.1:54140.
-[15:03:16] [Thread-8/INFO]: [ELCI] Opened connection to/127.0.0.1:55330.
-[15:03:16] [Thread-69/INFO]: [ELCI] Starting input thread
-[15:03:16] [Thread-70/INFO]: [ELCI] Starting output thread!
-[15:03:22] [Thread-8/INFO]: [ELCI] Opened connection to/127.0.0.1:57522.
-[15:03:22] [Thread-71/INFO]: [ELCI] Starting input thread
-[15:03:22] [Thread-72/INFO]: [ELCI] Starting output thread!
-[15:03:22] [Thread-74/INFO]: [ELCI] Starting output thread!
-[15:03:22] [Thread-8/INFO]: [ELCI] Opened connection to/127.0.0.1:57526.
-[15:03:22] [Thread-73/INFO]: [ELCI] Starting input thread
-[15:03:22] [Thread-8/INFO]: [ELCI] Opened connection to/127.0.0.1:57538.
-[15:03:22] [Thread-75/INFO]: [ELCI] Starting input thread
-[15:03:22] [Thread-76/INFO]: [ELCI] Starting output thread!
-[15:03:22] [Server thread/WARN]: [ELCI] Task #2 for ELCI v1.12.1 generated an exception
-java.util.ConcurrentModificationException: null
-	at java.util.ArrayList$Itr.checkForComodification(ArrayList.java:1013) ~[?:?]
-	at java.util.ArrayList$Itr.next(ArrayList.java:967) ~[?:?]
-	at net.rozukke.elci.ELCIPlugin$TickHandler.run(ELCIPlugin.java:149) ~[?:?]
-	at org.bukkit.craftbukkit.v1_19_R3.scheduler.CraftTask.run(CraftTask.java:82) ~[spigot-1.19.4-R0.1-SNAPSHOT.jar:3714-Spigot-b31949f-3ae9069]
-	at org.bukkit.craftbukkit.v1_19_R3.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:415) ~[spigot-1.19.4-R0.1-SNAPSHOT.jar:3714-Spigot-b31949f-3ae9069]
-	at net.minecraft.server.MinecraftServer.b(MinecraftServer.java:1259) ~[spigot-1.19.4-R0.1-SNAPSHOT.jar:3714-Spigot-b31949f-3ae9069]
-	at net.minecraft.server.dedicated.DedicatedServer.b(DedicatedServer.java:388) ~[spigot-1.19.4-R0.1-SNAPSHOT.jar:3714-Spigot-b31949f-3ae9069]
-	at net.minecraft.server.MinecraftServer.a(MinecraftServer.java:1200) ~[spigot-1.19.4-R0.1-SNAPSHOT.jar:3714-Spigot-b31949f-3ae9069]
-	at net.minecraft.server.MinecraftServer.w(MinecraftServer.java:1017) ~[spigot-1.19.4-R0.1-SNAPSHOT.jar:3714-Spigot-b31949f-3ae9069]
-	at net.minecraft.server.MinecraftServer.lambda$0(MinecraftServer.java:304) ~[spigot-1.19.4-R0.1-SNAPSHOT.jar:3714-Spigot-b31949f-3ae9069]
-	at java.lang.Thread.run(Thread.java:840) ~[?:?]
-[15:03:22] [Server thread/INFO]: [ELCI] Closed connection to/127.0.0.1:55330.
-[15:03:22] [Server thread/INFO]: [ELCI] Closed connection to/127.0.0.1:57522.
-[15:03:22] [Server thread/INFO]: [ELCI] Closed connection to/127.0.0.1:57526.
-[15:03:22] [Server thread/INFO]: [ELCI] Closed connection to/127.0.0.1:57538.
-[15:04:00] [Thread-78/INFO]: [ELCI] Starting output thread!
-[15:04:00] [Thread-77/INFO]: [ELCI] Starting input thread
-[15:04:00] [Thread-8/INFO]: [ELCI] Opened connection to/127.0.0.1:51700.
-[15:04:08] [Thread-8/INFO]: [ELCI] Opened connection to/127.0.0.1:55576.
-[15:04:08] [Thread-79/INFO]: [ELCI] Starting input thread
-[15:04:08] [Thread-80/INFO]: [ELCI] Starting output thread!
-[15:04:08] [Thread-81/INFO]: [ELCI] Starting input thread
-[15:04:08] [Thread-8/INFO]: [ELCI] Opened connection to/127.0.0.1:55592.
-[15:04:08] [Thread-82/INFO]: [ELCI] Starting output thread!
-[15:04:08] [Thread-8/INFO]: [ELCI] Opened connection to/127.0.0.1:55606.
-[15:04:08] [Thread-83/INFO]: [ELCI] Starting input thread
-[15:04:08] [Thread-84/INFO]: [ELCI] Starting output thread!
-[15:04:08] [Server thread/INFO]: [ELCI] Closed connection to/127.0.0.1:51700.
-[15:04:08] [Server thread/INFO]: [ELCI] Closed connection to/127.0.0.1:55576.
-[15:04:08] [Server thread/INFO]: [ELCI] Closed connection to/127.0.0.1:55592.
-[15:04:08] [Server thread/INFO]: [ELCI] Closed connection to/127.0.0.1:55606.
-[15:06:15] [Thread-8/INFO]: [ELCI] Opened connection to/127.0.0.1:47804.
-[15:06:15] [Thread-85/INFO]: [ELCI] Starting input thread
-[15:06:15] [Thread-86/INFO]: [ELCI] Starting output thread!
-[15:06:26] [Thread-8/INFO]: [ELCI] Opened connection to/127.0.0.1:56878.
-[15:06:26] [Thread-87/INFO]: [ELCI] Starting input thread
-[15:06:26] [Thread-88/INFO]: [ELCI] Starting output thread!
-[15:06:26] [Server thread/WARN]: [ELCI] Over 9000 commands were queued - deferring 821 to next tick
-[15:06:26] [Thread-89/INFO]: [ELCI] Starting input thread
-[15:06:26] [Thread-8/INFO]: [ELCI] Opened connection to/127.0.0.1:56880.
-[15:06:26] [Thread-90/INFO]: [ELCI] Starting output thread!
-[15:06:26] [Server thread/WARN]: [ELCI] Task #2 for ELCI v1.12.1 generated an exception
-java.util.ConcurrentModificationException: null
-	at java.util.ArrayList$Itr.checkForComodification(ArrayList.java:1013) ~[?:?]
-	at java.util.ArrayList$Itr.next(ArrayList.java:967) ~[?:?]
-	at net.rozukke.elci.ELCIPlugin$TickHandler.run(ELCIPlugin.java:149) ~[?:?]
-	at org.bukkit.craftbukkit.v1_19_R3.scheduler.CraftTask.run(CraftTask.java:82) ~[spigot-1.19.4-R0.1-SNAPSHOT.jar:3714-Spigot-b31949f-3ae9069]
-	at org.bukkit.craftbukkit.v1_19_R3.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:415) ~[spigot-1.19.4-R0.1-SNAPSHOT.jar:3714-Spigot-b31949f-3ae9069]
-	at net.minecraft.server.MinecraftServer.b(MinecraftServer.java:1259) ~[spigot-1.19.4-R0.1-SNAPSHOT.jar:3714-Spigot-b31949f-3ae9069]
-	at net.minecraft.server.dedicated.DedicatedServer.b(DedicatedServer.java:388) ~[spigot-1.19.4-R0.1-SNAPSHOT.jar:3714-Spigot-b31949f-3ae9069]
-	at net.minecraft.server.MinecraftServer.a(MinecraftServer.java:1200) ~[spigot-1.19.4-R0.1-SNAPSHOT.jar:3714-Spigot-b31949f-3ae9069]
-	at net.minecraft.server.MinecraftServer.w(MinecraftServer.java:1017) ~[spigot-1.19.4-R0.1-SNAPSHOT.jar:3714-Spigot-b31949f-3ae9069]
-	at net.minecraft.server.MinecraftServer.lambda$0(MinecraftServer.java:304) ~[spigot-1.19.4-R0.1-SNAPSHOT.jar:3714-Spigot-b31949f-3ae9069]
-	at java.lang.Thread.run(Thread.java:840) ~[?:?]
-[15:06:26] [Server thread/WARN]: [ELCI] Over 9000 commands were queued - deferring 2613 to next tick
-[15:06:26] [Server thread/INFO]: [ELCI] Closed connection to/127.0.0.1:47804.
-[15:06:26] [Server thread/INFO]: [ELCI] Closed connection to/127.0.0.1:56878.
-[15:06:26] [Server thread/INFO]: [ELCI] Closed connection to/127.0.0.1:56880.
-[15:07:11] [Server thread/INFO]: Toonifyer lost connection: Disconnected
-[15:07:11] [Server thread/INFO]: Toonifyer left the game
-[15:07:35] [Server thread/INFO]: Stopping the server
-[15:07:35] [Server thread/INFO]: Stopping server
-[15:07:35] [Server thread/INFO]: [ELCI] Disabling ELCI v1.12.1
-[15:07:35] [Server thread/INFO]: [ELCI] Raspberry Juice Stopped
-[15:07:35] [Server thread/INFO]: [SetSpawn] Disabling SetSpawn v3.4
-[15:07:35] [Server thread/INFO]: [SetSpawn] Disabled!
-[15:07:35] [Server thread/INFO]: Saving players
-[15:07:35] [Server thread/INFO]: Saving worlds
-[15:07:36] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[15:07:42] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[15:07:42] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[16:09:44] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[16:09:48] [ServerMain/INFO]: Loaded 7 recipes
+[16:09:48] [Server thread/INFO]: Starting minecraft server version 1.19.4
+[16:09:48] [Server thread/INFO]: Loading properties
+[16:09:49] [Server thread/INFO]: This server is running CraftBukkit version 3714-Spigot-b31949f-3ae9069 (MC: 1.19.4) (Implementing API version 1.19.4-R0.1-SNAPSHOT)
+[16:09:49] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[16:09:49] [Server thread/INFO]: Using 4 threads for Netty based IO
+[16:09:49] [Server thread/INFO]: Debug logging is disabled
+[16:09:49] [Server thread/INFO]: Default game type: CREATIVE
+[16:09:49] [Server thread/INFO]: Generating keypair
+[16:09:49] [Server thread/INFO]: Starting Minecraft server on *:25565
+[16:09:49] [Server thread/INFO]: Using epoll channel type
+[16:09:50] [Server thread/WARN]: Initializing Legacy Material Support. Unless you have legacy plugins and/or data this is a bug!
+[16:09:51] [Server thread/WARN]: Legacy plugin SetSpawn v3.4 does not specify an api-version.
+[16:09:51] [Server thread/WARN]: Legacy plugin ELCI v1.12.1 does not specify an api-version.
+[16:09:51] [Server thread/INFO]: [SetSpawn] Loading SetSpawn v3.4
+[16:09:51] [Server thread/INFO]: [ELCI] Loading ELCI v1.12.1
+[16:09:51] [Server thread/INFO]: Preparing level "world"
+[16:09:51] [Server thread/INFO]: -------- World Settings For [world] --------
+[16:09:51] [Server thread/INFO]: Experience Merge Radius: 3.0
+[16:09:51] [Server thread/INFO]: Mob Spawn Range: 6
+[16:09:51] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[16:09:51] [Server thread/INFO]: Cane Growth Modifier: 100%
+[16:09:51] [Server thread/INFO]: Melon Growth Modifier: 100%
+[16:09:51] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[16:09:51] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[16:09:51] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[16:09:51] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[16:09:51] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[16:09:51] [Server thread/INFO]: Potato Growth Modifier: 100%
+[16:09:51] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[16:09:51] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[16:09:51] [Server thread/INFO]: Vine Growth Modifier: 100%
+[16:09:51] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[16:09:51] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[16:09:51] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[16:09:51] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[16:09:51] [Server thread/INFO]: TwistingVines Growth Modifier: 100%
+[16:09:51] [Server thread/INFO]: WeepingVines Growth Modifier: 100%
+[16:09:51] [Server thread/INFO]: CaveVines Growth Modifier: 100%
+[16:09:51] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Nether: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[16:09:51] [Server thread/INFO]: Max TNT Explosions: 100
+[16:09:51] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[16:09:51] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true / Isa false
+[16:09:51] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[16:09:51] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1 Hopper Can Load Chunks: false
+[16:09:51] [Server thread/INFO]: View Distance: 10
+[16:09:51] [Server thread/INFO]: Simulation Distance: 10
+[16:09:51] [Server thread/INFO]: Item Despawn Rate: 6000
+[16:09:51] [Server thread/INFO]: Item Merge Radius: 2.5
+[16:09:51] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[16:09:51] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[16:09:51] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[16:09:51] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[16:09:51] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[16:09:54] [Worker-Main-12/INFO]: Preparing spawn area: 0%
+[16:09:54] [Worker-Main-15/INFO]: Preparing spawn area: 0%
+[16:09:54] [Worker-Main-12/INFO]: Preparing spawn area: 0%
+[16:09:54] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[16:09:54] [Worker-Main-12/INFO]: Preparing spawn area: 0%
+[16:09:54] [Worker-Main-12/INFO]: Preparing spawn area: 0%
+[16:09:54] [Worker-Main-13/INFO]: Preparing spawn area: 0%
+[16:09:55] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[16:09:55] [Worker-Main-12/INFO]: Preparing spawn area: 0%
+[16:09:56] [Worker-Main-13/INFO]: Preparing spawn area: 0%
+[16:09:56] [Worker-Main-14/INFO]: Preparing spawn area: 12%
+[16:09:57] [Worker-Main-4/INFO]: Preparing spawn area: 46%
+[16:09:57] [Worker-Main-5/INFO]: Preparing spawn area: 99%
+[16:09:57] [Server thread/INFO]: Time elapsed: 6019 ms
+[16:09:58] [Server thread/INFO]: [SetSpawn] Enabling SetSpawn v3.4
+[16:09:58] [Server thread/INFO]: [SetSpawn] Enabled!
+[16:09:58] [Server thread/INFO]: [ELCI] Enabling ELCI v1.12.1
+[16:09:58] [Server thread/INFO]: [ELCI] Using host:port - 0.0.0.0:4711
+[16:09:58] [Server thread/INFO]: [ELCI] ThreadListener Started
+[16:09:58] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[16:09:58] [Server thread/INFO]: Done (6.593s)! For help, type "help"
+[16:12:15] [Thread-10/INFO]: [ELCI] Starting input thread
+[16:12:15] [Thread-9/INFO]: [ELCI] Opened connection to/127.0.0.1:43982.
+[16:12:15] [Thread-11/INFO]: [ELCI] Starting output thread!
+[16:12:15] [Server thread/WARN]: [ELCI] [!!WARNING!!] Valid player entity does not exist on server.
+[16:12:15] [Server thread/INFO]: [ELCI] Closed connection to/127.0.0.1:43982.
+[16:12:44] [User Authenticator #1/INFO]: UUID of player Toonifyer is 8ff1ac14-21b6-4387-9fa5-9232b163b1cd
+[16:12:44] [Server thread/INFO]: Welcome Toonifyer[m
+[16:12:44] [Server thread/INFO]: Toonifyer joined the game
+[16:12:44] [Server thread/INFO]: Toonifyer[/[0:0:0:0:0:0:0:1%0]:43284] logged in with entity id 15 at ([world]-62.92638481643394, -60.0, 172.0451837513552)
+[16:13:06] [Thread-9/INFO]: [ELCI] Opened connection to/127.0.0.1:42360.
+[16:13:06] [Thread-17/INFO]: [ELCI] Starting input thread
+[16:13:06] [Thread-18/INFO]: [ELCI] Starting output thread!
+[16:14:21] [Server thread/INFO]: [ELCI] Closed connection to/127.0.0.1:42360.
+[16:14:52] [Thread-9/INFO]: [ELCI] Opened connection to/127.0.0.1:47326.
+[16:14:52] [Thread-19/INFO]: [ELCI] Starting input thread
+[16:14:52] [Thread-20/INFO]: [ELCI] Starting output thread!
+[16:15:01] [Thread-9/INFO]: [ELCI] Opened connection to/127.0.0.1:51362.
+[16:15:01] [Thread-21/INFO]: [ELCI] Starting input thread
+[16:15:01] [Thread-22/INFO]: [ELCI] Starting output thread!
+[16:15:01] [Server thread/INFO]: [ELCI] Closed connection to/127.0.0.1:47326.
+[16:15:01] [Server thread/INFO]: [ELCI] Closed connection to/127.0.0.1:51362.
+[16:21:16] [Thread-28/INFO]: [ELCI] Starting input thread
+[16:21:16] [Thread-9/INFO]: [ELCI] Opened connection to/127.0.0.1:56334.
